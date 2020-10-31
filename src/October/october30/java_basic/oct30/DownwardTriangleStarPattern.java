@@ -1,4 +1,4 @@
-package October.october30;
+package October.october30.java_basic.oct30;
 
 public class DownwardTriangleStarPattern {
     public static void main(String[] args) {
