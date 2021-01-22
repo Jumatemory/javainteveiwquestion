@@ -7,7 +7,7 @@ public class LeftTriangleStarPattern {
             for (int j =2*(6-i); j>0 ; j--) {
                 System.out.print(" ");
             }
-            for (int j = 0; j <=i; j++) {
+            for (int j = 0; j <i; j++) {
                 System.out.print(" *");
             }
 
